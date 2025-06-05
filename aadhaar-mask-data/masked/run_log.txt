@@ -1,0 +1,244 @@
+Run at 2025-06-05 18:05:42.316934
+Total images processed : 237
+Masked images          : 74
+Aadhaar UID not found  : 163
+Images failed to load  : 0
+
+=== Individual file log ===
+24020049161_ID Proof_Aadhaar Card Copy_1.jpg : ⚠️  Aadhaar UID not found
+24020063385_ID Proof_AADHAAR CARD COPY_1.jpg : ⚠️  Aadhaar UID not found
+24020065546_ID Proof_Aadhaar Card Copy_1.jpeg : ⚠️  Aadhaar UID not found
+24020066004_ID Proof_Driving License Copy_1.jpg : ⚠️  Aadhaar UID not found
+24030075920_ID Proof_Aadhaar Card Copy_2.jpg : ✅ masked …8228
+24030076487_ID Proof_Aadhaar Card Copy_1.jpeg : ⚠️  Aadhaar UID not found
+24030076678_ID Proof_Aadhaar Card Copy_1.jpeg : ⚠️  Aadhaar UID not found
+24030081706_ID Proof_AADHAAR CARD COPY_1.png : ✅ masked …9370
+24030083911_ID Proof_AADHAAR CARD COPY_1.jpg : ✅ masked …6158
+24030086516_ID Proof_Aadhaar Card Copy_1.jpg : ⚠️  Aadhaar UID not found
+24030089034_ID Proof_AADHAAR CARD COPY_2.jpg : ✅ masked …3655
+24030090423_ID Proof_Aadhaar Card Copy_1.jpg : ⚠️  Aadhaar UID not found
+24030091465_ID Proof_Aadhaar Card Copy_1.jpg : ✅ masked …1756
+24030096733_ID Proof_AADHAAR CARD COPY_1.jpg : ✅ masked …7469
+24030096785_ID Proof_Aadhaar Card Copy_3.jpg : ⚠️  Aadhaar UID not found
+24030100573_ID Proof_Aadhaar Card Copy_1.jpg : ⚠️  Aadhaar UID not found
+24030104565_ID Proof_Aadhaar Card Copy_3.jpg : ⚠️  Aadhaar UID not found
+24030112094_ID Proof_VOTER ID CARD COPY_1.jpeg : ⚠️  Aadhaar UID not found
+24030123285_ID Proof_Aadhaar Card Copy_1.jpeg : ✅ masked …4860
+24030125275_ID Proof_Aadhaar Card Copy_1.jpeg : ⚠️  Aadhaar UID not found
+24030142687_ID Proof_AADHAAR CARD COPY_1.jpg : ⚠️  Aadhaar UID not found
+24030143308_ID Proof_Aadhaar Card Copy_2.jpg : ⚠️  Aadhaar UID not found
+24030151416_ID Proof_AADHAAR CARD COPY_1.jpg : ✅ masked …9377
+24030153990_ID Proof_AADHAAR CARD COPY_1.jpg : ✅ masked …9966
+24030159287_ID Proof_AADHAAR CARD COPY_2.jpg : ⚠️  Aadhaar UID not found
+24030160202_ID Proof_Aadhaar Card Copy_1.jpeg : ✅ masked …0080
+24040162854_ID Proof_Aadhaar Card Copy_1.jpg : ⚠️  Aadhaar UID not found
+24040163885_ID Proof_Aadhaar Card Copy_1.jpg : ⚠️  Aadhaar UID not found
+24040172259_ID Proof_AADHAAR CARD COPY_1.jpg : ✅ masked …5759
+24040173319_ID Proof_AADHAAR CARD COPY_1.jpg : ⚠️  Aadhaar UID not found
+24040176822_ID Proof_VOTER ID CARD COPY_1.jpg : ⚠️  Aadhaar UID not found
+24040177436_ID Proof_AADHAAR CARD COPY_1.jpeg : ✅ masked …0652
+24040179356_ID Proof_DRIVING LICENSE COPY_1.jpg : ⚠️  Aadhaar UID not found
+24040183090_ID Proof_AADHAAR CARD COPY_1.jpeg : ✅ masked …7384
+24040187919_ID Proof_Aadhaar Card Copy_1.jpg : ✅ masked …7392
+24040189572_ID Proof_Aadhaar Card Copy_1.jpeg : ✅ masked …3576
+24040189622_ID Proof_AADHAAR CARD COPY_1.jpg : ✅ masked …9190
+24040190045_ID Proof_AADHAAR CARD COPY_1.jpeg : ✅ masked …4727
+24040200613_ID Proof_AADHAAR CARD COPY_1.jpeg : ✅ masked …1592
+24040203239_ID Proof_AADHAAR CARD COPY_1.jpeg : ✅ masked …8372
+24040205764_ID Proof_Aadhaar Card Copy_2.jpg : ✅ masked …2520
+24040207753_ID Proof_AADHAAR CARD COPY_1.jpeg : ✅ masked …7379
+24040212388_ID Proof_AADHAAR CARD COPY_1.jpg : ⚠️  Aadhaar UID not found
+24040213028_ID Proof_AADHAAR CARD COPY_1.jpeg : ⚠️  Aadhaar UID not found
+24040219062_ID Proof_Aadhaar Card Copy_1.jpeg : ✅ masked …1125
+24040229735_ID Proof_AADHAAR CARD COPY_1.jpg : ✅ masked …0357
+24040231290_ID Proof_Aadhaar Card Copy_1.jpg : ✅ masked …9649
+24040235918_ID Proof_VOTER ID CARD COPY_1.jpg : ⚠️  Aadhaar UID not found
+24040235990_ID Proof_Aadhaar Card Copy_1.jpg : ✅ masked …1824
+24040236387_ID Proof_Aadhaar Card Copy_2.jpeg : ✅ masked …7524
+24040244426_ID Proof_Aadhaar Card Copy_1.jpg : ⚠️  Aadhaar UID not found
+24040246166_ID Proof_AADHAAR CARD COPY_1.jpg : ✅ masked …7827
+24040247050_ID Proof_Aadhaar Card Copy_1.jpg : ✅ masked …1732
+24040249153_ID Proof_AADHAAR CARD COPY_1.jpeg : ⚠️  Aadhaar UID not found
+24040250279_ID Proof_AADHAAR CARD COPY_1.jpg : ⚠️  Aadhaar UID not found
+24050255361_ID Proof_AADHAAR CARD COPY_1.jpg : ⚠️  Aadhaar UID not found
+24050258800_ID Proof_AADHAAR CARD COPY_1.jpg : ✅ masked …7979
+24050279546_ID Proof_AADHAAR CARD COPY_1.jpeg : ⚠️  Aadhaar UID not found
+24050283279_ID Proof_Aadhaar Card Copy_1.jpg : ⚠️  Aadhaar UID not found
+24050285931_ID Proof_AADHAAR CARD COPY_1.jpg : ⚠️  Aadhaar UID not found
+24050287868_ID Proof_AADHAAR CARD COPY_1.jpg : ✅ masked …8995
+24050290140_ID Proof_Aadhaar Card Copy_1.jpeg : ✅ masked …6803
+24050305158_ID Proof_Aadhaar Card Copy_1.jpeg : ✅ masked …0730
+24050306059_ID Proof_AADHAAR CARD COPY_1.jpg : ✅ masked …8437
+24050306256_ID Proof_Aadhaar Card Copy_2.jpg : ✅ masked …8526
+24050307105_ID Proof_AADHAAR CARD COPY_1.jpeg : ⚠️  Aadhaar UID not found
+24050317035_ID Proof_AADHAAR CARD COPY_1.jpeg : ⚠️  Aadhaar UID not found
+24050317599_ID Proof_Aadhaar Card Copy_1.jpg : ✅ masked …7455
+24050329640_ID Proof_Aadhaar Card Copy_1.jpeg : ✅ masked …9415
+24050336020_ID Proof_AADHAAR CARD COPY_1.jpg : ✅ masked …0369
+24050337595_ID Proof_Aadhaar Card Copy_1.jpg : ⚠️  Aadhaar UID not found
+24050338637_ID Proof_AADHAAR CARD COPY_1.jpeg : ✅ masked …4968
+24050338929_ID Proof_AADHAAR CARD COPY_2.jpeg : ⚠️  Aadhaar UID not found
+24050340144_ID Proof_Aadhaar Card Copy_1.jpg : ⚠️  Aadhaar UID not found
+24050348658_ID Proof_AADHAAR CARD COPY_1.jpeg : ✅ masked …5298
+24060353064_ID Proof_Aadhaar Card Copy_3.jpeg : ⚠️  Aadhaar UID not found
+24060353438_ID Proof_AADHAAR CARD COPY_1.jpg : ⚠️  Aadhaar UID not found
+24060355665_ID Proof_Aadhaar Card Copy_2.jpeg : ✅ masked …4501
+24060357049_ID Proof_Aadhaar Card Copy_1.jpg : ⚠️  Aadhaar UID not found
+24060360580_ID Proof_AADHAAR CARD COPY_1.jpg : ✅ masked …0670
+24060360762_ID Proof_AADHAAR CARD COPY_1.jpg : ⚠️  Aadhaar UID not found
+24060361021_ID Proof_AADHAAR CARD COPY_1.jpeg : ⚠️  Aadhaar UID not found
+24060362349_ID Proof_Aadhaar Card Copy_3.jpg : ⚠️  Aadhaar UID not found
+24060362955_ID Proof_Aadhaar Card Copy_2.jpg : ⚠️  Aadhaar UID not found
+24060377427_ID Proof_VOTER ID CARD COPY_1.jpg : ⚠️  Aadhaar UID not found
+24060377848_ID Proof_AADHAAR CARD COPY_1.jpg : ⚠️  Aadhaar UID not found
+24060378292_ID Proof_Aadhaar Card Copy_1.jpeg : ⚠️  Aadhaar UID not found
+24060380831_ID Proof_Aadhaar Card Copy_2.jpeg : ✅ masked …3381
+24060385461_ID Proof_VOTER ID CARD COPY_1.jpeg : ⚠️  Aadhaar UID not found
+24060390769_ID Proof_AADHAAR CARD COPY_1.jpeg : ⚠️  Aadhaar UID not found
+24060392702_ID Proof_Aadhaar Card Copy_2.jpg : ✅ masked …2217
+24060396558_ID Proof_Aadhaar Card Copy_3.jpg : ✅ masked …4135
+24060398179_ID Proof_AADHAAR CARD COPY_1.jpeg : ⚠️  Aadhaar UID not found
+24060402386_ID Proof_Aadhaar Card Copy_1.jpeg : ⚠️  Aadhaar UID not found
+24060403237_ID Proof_Aadhaar Card Copy_2.jpeg : ⚠️  Aadhaar UID not found
+24060416919_ID Proof_AADHAAR CARD COPY_1.jpg : ⚠️  Aadhaar UID not found
+24060420632_ID Proof_Aadhaar Card Copy_1.jpg : ⚠️  Aadhaar UID not found
+24060426198_ID Proof_AADHAAR CARD COPY_1.jpg : ⚠️  Aadhaar UID not found
+24060431076_ID Proof_AADHAAR CARD COPY_1.jpeg : ⚠️  Aadhaar UID not found
+24060444731_ID Proof_AADHAAR CARD COPY_1.jpg : ⚠️  Aadhaar UID not found
+24070467271_ID Proof_AADHAAR CARD COPY_1.jpg : ⚠️  Aadhaar UID not found
+24070487396_ID Proof_AADHAAR CARD COPY_1.jpg : ⚠️  Aadhaar UID not found
+24070488300_ID Proof_Aadhaar Card Copy_1.jpg : ⚠️  Aadhaar UID not found
+24070505174_ID Proof_Aadhaar Card Copy_3.jpg : ✅ masked …7377
+24070512918_ID Proof_AADHAAR CARD COPY_1.jpg : ⚠️  Aadhaar UID not found
+24070515972_ID Proof_AADHAAR CARD COPY_1.jpg : ⚠️  Aadhaar UID not found
+24070533655_ID Proof_AADHAAR CARD COPY_1.jpeg : ⚠️  Aadhaar UID not found
+24070534758_ID Proof_AADHAAR CARD COPY_2.jpg : ⚠️  Aadhaar UID not found
+24070539829_ID Proof_Aadhaar Card Copy_6.jpg : ✅ masked …9711
+24070540347_ID Proof_Aadhaar Card Copy_2.jpeg : ✅ masked …4925
+24070569036_ID Proof_AADHAAR CARD COPY_1.jpg : ⚠️  Aadhaar UID not found
+24070575989_ID Proof_AADHAAR CARD COPY_1.jpg : ⚠️  Aadhaar UID not found
+24070578864_ID Proof_Aadhaar Card Copy_1.jpg : ⚠️  Aadhaar UID not found
+24070581244_ID Proof_Aadhaar Card Copy_2.jpeg : ⚠️  Aadhaar UID not found
+24070582034_ID Proof_Aadhaar Card Copy_2.jpg : ⚠️  Aadhaar UID not found
+24070582986_ID Proof_AADHAAR CARD COPY_1.jpeg : ⚠️  Aadhaar UID not found
+24070585579_ID Proof_Aadhaar Card Copy_1.jpg : ⚠️  Aadhaar UID not found
+24070585751_ID Proof_AADHAAR CARD COPY_1.jpeg : ✅ masked …9285
+24070587999_ID Proof_Aadhaar Card Copy_2.jpg : ⚠️  Aadhaar UID not found
+24070588299_ID Proof_Aadhaar Card Copy_1.jpg : ✅ masked …5445
+24070588344_ID Proof_AADHAAR CARD COPY_1.jpeg : ⚠️  Aadhaar UID not found
+24070588367_ID Proof_Aadhaar Card Copy_2.jpg : ✅ masked …4868
+24070588661_ID Proof_Aadhaar Card Copy_1.jpg : ⚠️  Aadhaar UID not found
+24070590795_ID Proof_Aadhaar Card Copy_2.jpeg : ⚠️  Aadhaar UID not found
+24080592374_ID Proof_AADHAAR CARD COPY_1.jpg : ✅ masked …9939
+24080592389_ID Proof_Aadhaar Card Copy_3.jpeg : ⚠️  Aadhaar UID not found
+24080592456_ID Proof_Aadhaar Card Copy_2.jpg : ✅ masked …8449
+24080593919_Permanent Address Proof_Aadhaar Card_2.jpeg : ⚠️  Aadhaar UID not found
+24080595356_ID Proof_AADHAAR CARD COPY_2.jpg : ⚠️  Aadhaar UID not found
+24080595671_ID Proof_AADHAAR CARD COPY_1.jpg : ⚠️  Aadhaar UID not found
+24080596303_ID Proof_Aadhaar Card Copy_1.jpg : ⚠️  Aadhaar UID not found
+24080596920_ID Proof_AADHAAR CARD COPY_2.jpeg : ✅ masked …4213
+24080597056_ID Proof_Aadhaar Card Copy_3.jpg : ⚠️  Aadhaar UID not found
+24080599920_ID Proof_AADHAAR CARD COPY_1.jpg : ⚠️  Aadhaar UID not found
+24080599922_ID Proof_AADHAAR CARD COPY_1.jpeg : ✅ masked …7314
+24080600639_ID Proof_AADHAAR CARD COPY_1.jpg : ✅ masked …1160
+24080601248_ID Proof_AADHAAR CARD COPY_1.jpg : ⚠️  Aadhaar UID not found
+24080609219_Address Proof_Aadhaar Card Copy_1.jpg : ⚠️  Aadhaar UID not found
+24080617461_Address Proof_Aadhaar Card Copy_1.jpg : ✅ masked …3980
+24080617519_ID Proof_AADHAAR CARD COPY_1.jpg : ✅ masked …6643
+24080619767_ID Proof_AADHAAR CARD COPY_1.jpg : ⚠️  Aadhaar UID not found
+24080630351_Address Proof_Aadhaar Card Copy_2.jpg : ⚠️  Aadhaar UID not found
+24080634161_Permanent Address Proof_Aadhaar Card_1.jpg : ⚠️  Aadhaar UID not found
+24080634240_ID Proof_VOTER ID CARD COPY_1 (1).jpg : ⚠️  Aadhaar UID not found
+24080643434_ID Proof_Aadhaar Card Copy_2.jpg : ✅ masked …0198
+24080654402_ID Proof_AADHAAR CARD COPY_1.jpg : ⚠️  Aadhaar UID not found
+24080656451_ID Proof_AADHAAR CARD COPY_1.jpg : ⚠️  Aadhaar UID not found
+24080664051_ID Proof_Aadhaar Card Copy_2.jpg : ✅ masked …7017
+24080666284_Permanent Address Proof_Aadhaar Card_1.jpg : ⚠️  Aadhaar UID not found
+24080666689_Address Proof_Aadhaar Card Copy_1.jpeg : ⚠️  Aadhaar UID not found
+24080672211_ID Proof_Aadhaar Card Copy_2.jpg : ⚠️  Aadhaar UID not found
+24080673667_ID Proof_Aadhaar Card Copy_3.jpg : ⚠️  Aadhaar UID not found
+24080674080_Permanent Address Proof_Aadhaar Card_1.jpeg : ✅ masked …2683
+24080676056_Permanent Address Proof_Aadhaar Card_1.jpeg : ⚠️  Aadhaar UID not found
+24080680674_ID Proof_AADHAAR CARD COPY_1.jpg : ⚠️  Aadhaar UID not found
+24080720673_Permanent Address Proof_Aadhaar Card_2.jpeg : ⚠️  Aadhaar UID not found
+24080736839_ID Proof_Aadhaar Card Copy_1.jpeg : ⚠️  Aadhaar UID not found
+24080741294_ID Proof_Aadhaar Card Copy_2.jpeg : ⚠️  Aadhaar UID not found
+24090745055_ID Proof_AADHAAR CARD COPY_1.jpeg : ⚠️  Aadhaar UID not found
+24090745083_ID Proof_AADHAAR CARD COPY_1.jpeg : ✅ masked …6048
+24090745892_ID Proof_AADHAAR CARD COPY_1.jpeg : ⚠️  Aadhaar UID not found
+24090751104_ID Proof_AADHAAR CARD COPY_1.jpg : ⚠️  Aadhaar UID not found
+24090752268_ID Proof_AADHAAR CARD COPY_1.jpg : ⚠️  Aadhaar UID not found
+24090762155_ID Proof_AADHAAR CARD COPY_1.jpg : ⚠️  Aadhaar UID not found
+24090775704_ID Proof_Aadhaar Card Copy_3.jpg : ✅ masked …1564
+24090778073_ID Proof_AADHAAR CARD COPY_1.jpeg : ⚠️  Aadhaar UID not found
+24090778200_ID Proof_AADHAAR CARD COPY_1.jpeg : ⚠️  Aadhaar UID not found
+24090778752_ID Proof_AADHAAR CARD COPY_1.jpg : ⚠️  Aadhaar UID not found
+24090794214_ID Proof_Aadhaar Card Copy_1.jpg : ⚠️  Aadhaar UID not found
+24090801287_ID Proof_AADHAAR CARD COPY_1.jpg : ✅ masked …6750
+24090814128_ID Proof_Aadhaar Card Copy_2.jpeg : ⚠️  Aadhaar UID not found
+24090824278_ID Proof_AADHAAR CARD COPY_1.jpg : ✅ masked …2982
+24090827356_ID Proof_AADHAAR CARD COPY_1.jpeg : ⚠️  Aadhaar UID not found
+24090852908_ID Proof_AADHAAR CARD COPY_1 (1).jpg : ⚠️  Aadhaar UID not found
+24090855372_ID Proof_AADHAAR CARD COPY_1.jpg : ⚠️  Aadhaar UID not found
+24090859714_ID Proof_AADHAAR CARD COPY_1.jpg : ⚠️  Aadhaar UID not found
+24090873558_ID Proof_AADHAAR CARD COPY_1.jpg : ⚠️  Aadhaar UID not found
+24090876681_ID Proof_AADHAAR CARD COPY_1.jpeg : ⚠️  Aadhaar UID not found
+24090893287_ID Proof_AADHAAR CARD COPY_1.jpg : ⚠️  Aadhaar UID not found
+24100905569_ID Proof_AADHAAR CARD COPY_1.jpg : ✅ masked …2135
+24100906368_ID Proof_Aadhaar Card Copy_1.jpg : ⚠️  Aadhaar UID not found
+24100907442_ID Proof_Aadhaar Card Copy_1.jpeg : ⚠️  Aadhaar UID not found
+24100912010_ID Proof_AADHAAR CARD COPY_2.jpg : ⚠️  Aadhaar UID not found
+24100913925_ID Proof_Aadhaar Card Copy_2.jpg : ⚠️  Aadhaar UID not found
+24100916291_ID Proof_Aadhaar Card Copy_1.jpg : ⚠️  Aadhaar UID not found
+24100917031_ID Proof_AADHAAR CARD COPY_1.jpeg : ⚠️  Aadhaar UID not found
+24100925594_ID Proof_AADHAAR CARD COPY_1.jpeg : ⚠️  Aadhaar UID not found
+24100926129_ID Proof_AADHAAR CARD COPY_1.jpg : ⚠️  Aadhaar UID not found
+24100926850_ID Proof_Aadhaar Card Copy_2.jpg : ✅ masked …1048
+24100927270_ID Proof_AADHAAR CARD COPY_2.jpg : ⚠️  Aadhaar UID not found
+24100928898_ID Proof_AADHAAR CARD COPY_1.jpg : ⚠️  Aadhaar UID not found
+24100929977_ID Proof_Aadhaar Card Copy_2.jpeg : ⚠️  Aadhaar UID not found
+24100934953_ID Proof_Aadhaar Card Copy_2.jpg : ⚠️  Aadhaar UID not found
+24100935251_ID Proof_AADHAAR CARD COPY_1 (1).jpeg : ⚠️  Aadhaar UID not found
+24100935251_ID Proof_AADHAAR CARD COPY_1 (2).jpeg : ⚠️  Aadhaar UID not found
+24100935251_ID Proof_AADHAAR CARD COPY_1.jpeg : ⚠️  Aadhaar UID not found
+24100936793_ID Proof_AADHAAR CARD COPY_1.jpg : ⚠️  Aadhaar UID not found
+24100939881_ID Proof_AADHAAR CARD COPY_1.jpg : ⚠️  Aadhaar UID not found
+24100940339_ID Proof_AADHAAR CARD COPY_1.jpeg : ✅ masked …6376
+24100942054_ID Proof_AADHAAR CARD COPY_3.jpg : ⚠️  Aadhaar UID not found
+24100947924_ID Proof_AADHAAR CARD COPY_1.jpg : ⚠️  Aadhaar UID not found
+24100949022_ID Proof_AADHAAR CARD COPY_1.jpeg : ⚠️  Aadhaar UID not found
+24100949755_ID Proof_Aadhaar Card Copy_2 (1).jpg : ⚠️  Aadhaar UID not found
+24100949755_ID Proof_Aadhaar Card Copy_2.jpg : ⚠️  Aadhaar UID not found
+24100972220_ID Proof_AADHAAR CARD COPY_1.jpg : ⚠️  Aadhaar UID not found
+24100987651_ID Proof_Aadhaar Card Copy_5.jpeg : ⚠️  Aadhaar UID not found
+24100987985_ID Proof_AADHAAR CARD COPY_1.jpg : ⚠️  Aadhaar UID not found
+24100995853_ID Proof_Aadhaar Card Copy_2.jpeg : ⚠️  Aadhaar UID not found
+24101004858_ID Proof_AADHAAR CARD COPY_1.jpg : ⚠️  Aadhaar UID not found
+24101004977_ID Proof_Aadhaar Card Copy_2.jpg : ⚠️  Aadhaar UID not found
+24101005806_ID Proof_AADHAAR CARD COPY_1.jpg : ⚠️  Aadhaar UID not found
+24101006303_ID Proof_AADHAAR CARD COPY_1.jpg : ⚠️  Aadhaar UID not found
+24101008042_ID Proof_AADHAAR CARD COPY_1.jpg : ⚠️  Aadhaar UID not found
+24101009764_ID Proof_Aadhaar Card Copy_2 (1).jpg : ✅ masked …0587
+24101009764_ID Proof_Aadhaar Card Copy_2.jpg : ✅ masked …0587
+24101025158_ID Proof_Aadhaar Card Copy_2.jpeg : ⚠️  Aadhaar UID not found
+24101035653_ID Proof_Aadhaar Card Copy_2.jpg : ⚠️  Aadhaar UID not found
+24101036843_ID Proof_AADHAAR CARD COPY_1.jpg : ✅ masked …6414
+24101037440_ID Proof_AADHAAR CARD COPY_1.jpeg : ✅ masked …6372
+24101043447_ID Proof_AADHAAR CARD COPY_1.jpg : ⚠️  Aadhaar UID not found
+24101046629_ID Proof_AADHAAR CARD COPY_1.jpg : ⚠️  Aadhaar UID not found
+24101063289_ID Proof_AADHAAR CARD COPY_1.jpeg : ⚠️  Aadhaar UID not found
+24101065832_ID Proof_Aadhaar Card Copy_1.jpg : ✅ masked …9030
+24101067115_ID Proof_AADHAAR CARD COPY_1.jpg : ⚠️  Aadhaar UID not found
+24101067452_ID Proof_AADHAAR CARD COPY_1.jpeg : ⚠️  Aadhaar UID not found
+24101124474_ID Proof_Aadhaar Card Copy_6.jpg : ⚠️  Aadhaar UID not found
+24101179190_ID Proof_Aadhaar Card Copy_2.jpeg : ✅ masked …8424
+24101192255_ID Proof_Aadhaar Card Copy_1.jpg : ✅ masked …2233
+24101232141_ID Proof_Aadhaar Card Copy_2.jpeg : ⚠️  Aadhaar UID not found
+25011658966_ID Proof_AADHAAR CARD COPY_1.jpeg : ⚠️  Aadhaar UID not found
+25011660450_ID Proof_AADHAAR CARD COPY_1.jpeg : ⚠️  Aadhaar UID not found
+25011693440_ID Proof_AADHAAR CARD COPY_1.jpeg : ⚠️  Aadhaar UID not found
+25011695011_ID Proof_AADHAAR CARD COPY_1.jpg : ⚠️  Aadhaar UID not found
+25011712784_ID Proof_Aadhaar Card Copy_1.jpeg : ⚠️  Aadhaar UID not found
+25011717167_ID Proof_AADHAAR CARD COPY_1.jpg : ⚠️  Aadhaar UID not found
+25011746508_ID Proof_Aadhaar Card Copy_1.jpg : ⚠️  Aadhaar UID not found
+25022046741_ID Proof_AADHAAR CARD COPY_1.jpg : ⚠️  Aadhaar UID not found

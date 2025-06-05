@@ -3,7 +3,7 @@ import pytesseract
 import re
 
 # Load image
-image_path = "13.jpg"
+image_path = "1.jpeg"
 image = cv2.imread(image_path)
 rgb = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
 
